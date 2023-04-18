@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "997375370281",
+    "project_id": "opsc-factorauth",
+    "storage_bucket": "opsc-factorauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997375370281:android:c87edacb4fecf10c3ca838",
+        "android_client_info": {
+          "package_name": "com.dylan.opsc_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997375370281-btfdmvqe0lk16dn5vtb0ilhhitt6bq4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI-zwi1E3Q6Y7ylIq9YuhseNFVrFqgfoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997375370281-btfdmvqe0lk16dn5vtb0ilhhitt6bq4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997375370281:android:0a26443b6061f57b3ca838",
+        "android_client_info": {
+          "package_name": "com.dylan.opscfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997375370281-btfdmvqe0lk16dn5vtb0ilhhitt6bq4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI-zwi1E3Q6Y7ylIq9YuhseNFVrFqgfoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997375370281-btfdmvqe0lk16dn5vtb0ilhhitt6bq4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
